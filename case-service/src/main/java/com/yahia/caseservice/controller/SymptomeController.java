@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/api/symptomes")
+@RequestMapping("/api/case-symptomes")
 public class SymptomeController {
 
     @Autowired

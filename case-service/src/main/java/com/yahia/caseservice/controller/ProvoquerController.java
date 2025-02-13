@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/provoques")
+@RequestMapping("/api/case-provoques")
 public class ProvoquerController {
 
     @Autowired
